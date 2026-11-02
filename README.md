@@ -26,6 +26,8 @@ Marks, S., Lindsey, J. & Olah, C. (2026). “The Persona Selection Model: Why AI
 
 - [Article](https://alignment.anthropic.com/2026/psm/)
 
+>Opposing views of PSM exhaustiveness. The masked shoggoth (left) depicts the idea that the LLM (the shoggoth) has its own agency beyond plausible text generation. It playacts the Assistant persona, but only instrumentally for its own inscrutable reasons. (Source.) In contrast, the operating system view (right) views the LLM as being like a simulation engine and the Assistant like a person inside this simulation. The simulation engine does not “puppet” the Assistant for its own ends; it only tries to simulate probable behavior according to its understanding of the Assistant.
+
 ![image](https://alignment.anthropic.com/2026/psm/fig1.png)
 
 **Value & Norms**
