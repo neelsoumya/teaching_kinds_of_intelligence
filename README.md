@@ -26,6 +26,7 @@ Marks, S., Lindsey, J. & Olah, C. (2026). “The Persona Selection Model: Why AI
 
 - [Article](https://alignment.anthropic.com/2026/psm/)
 
+![image](https://alignment.anthropic.com/2026/psm/fig1.png)
 
 **Value & Norms**
 
