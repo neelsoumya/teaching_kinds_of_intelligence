@@ -48,6 +48,7 @@ Block, N. (2026). “Can only meat machines be conscious?”. *Trends in Cogniti
 
 - [ScienceDirect article](https://www.sciencedirect.com/science/article/pii/S1364661325002347)
 
+>In practice, we will inevitably be most sure of the consciousness of systems that are like us both computationally and subcomputationally, and less sure when one or the other is absent.
 
 **Value & Norms**
 
